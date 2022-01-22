@@ -1,0 +1,37 @@
+.containers{
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+.categerious-1{
+    background-color: #ffa500;
+    border-radius: 20px;
+    margin: 0 0 10px;
+}
+.categerious-2{
+    background-color:#da70d6;
+    border-radius: 20px;
+}
+.categerious-3{
+    background-color: #0000ff;
+    border-radius: 20px;
+}
+.categerious img{
+    height: 100px;
+    width: 100px;
+}
+.categeri{
+    background-color: #0000ff;
+}
+.btn-bg{
+    color:white ;
+    background-color: #ff136f;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+#shose{
+    margin-top: 100px;
+}
+#backpack{
+    margin-top: 100px;
+}
